@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <style>
+    .text { font-family: 'Arial', sans-serif; font-weight: 900; font-size: 40px; fill: #1a1a1a; letter-spacing: 2px; }
+    .leaf { fill: #4CAF50; }
+  </style>
+  <!-- Simple representation of the Beyond Meat logo style -->
+  <text x="50%" y="65" text-anchor="middle" class="text">BEYOND MEAT</text>
+  <!-- Stylized leaf/cape icon above -->
+  <path d="M150 10 C 150 10, 130 30, 130 40 C 130 50, 150 50, 150 50 C 150 50, 170 50, 170 40 C 170 30, 150 10, 150 10 Z" class="leaf"/>
+</svg>
